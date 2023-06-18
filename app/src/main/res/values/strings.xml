@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">my_first_calculator</string>
-    <string name="sumar">Sumar</string>
-    <string name="restar" />
-    <string name="add">+</string>
+    <string name="app_name">Mi primera calculadora</string>
+    <string name="sumar">+</string>
+    <string name="restar">-</string>
+    <string name="multiplicar">*</string>
+    <string name="dividir">/</string>
+    <string name="result_text">el resultado es: </string>
+    <string name="hint1">número 1</string>
+    <string name="hint2">número 2</string>
 </resources>
